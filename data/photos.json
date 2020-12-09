@@ -1,0 +1,245 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Garber",
+      "url": "https://sixtwothree.org/",
+      "photo": "https://assets.sixtwothree.org/jgarber.png"
+    },
+    "name": "Textures",
+    "url": "https://sixtwothree.org/photos/1",
+    "published": "2016-01-14T18:55:34-05:00",
+    "updated": "2016-01-14T18:55:35-05:00",
+    "syndication": [
+      "https://www.flickr.com/photos/jgarber/23207722914/",
+      "https://www.instagram.com/p/_c-DL7txhI/"
+    ],
+    "photo": [
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/1/image_small.jpg"
+      },
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/1/image_medium.jpg"
+      },
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/1/image_large.jpg"
+      }
+    ],
+    "location": {
+      "type": "adr",
+      "locality": "Washington",
+      "region": "District of Columbia",
+      "country-name": "United States",
+      "longitude": "-77.0335694444444",
+      "latitude": "38.9281083333333"
+    },
+    "content": {
+      "value": "\u003cp\u003eTextures\u003c/p\u003e\n",
+      "content-type": "text/html"
+    }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Garber",
+      "url": "https://sixtwothree.org/",
+      "photo": "https://assets.sixtwothree.org/jgarber.png"
+    },
+    "name": "A detail from Patrick Dougherty’s contribution to WONDER at The Renwick Gallery",
+    "url": "https://sixtwothree.org/photos/2",
+    "published": "2016-01-14T19:14:03-05:00",
+    "updated": "2016-01-18T23:25:53-05:00",
+    "category": [
+      "art",
+      "Patrick Dougherty",
+      "Renwick Gallery",
+      "sculpture",
+      "WONDER"
+    ],
+    "syndication": [
+      "https://www.flickr.com/photos/jgarber/23925714329/",
+      "https://www.instagram.com/p/BAXMI2Ptxq1/"
+    ],
+    "photo": [
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/2/image_small.jpg"
+      },
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/2/image_medium.jpg"
+      },
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/2/image_large.jpg"
+      }
+    ],
+    "location": {
+      "type": "adr",
+      "locality": "Washington",
+      "region": "District of Columbia",
+      "country-name": "United States",
+      "longitude": "-77.0393527777778",
+      "latitude": "38.8991472222222"
+    },
+    "content": {
+      "value": "\u003cp\u003eA detail from Patrick Dougherty\u0026rsquo;s contribution to WONDER at The Renwick Gallery\u003c/p\u003e\n",
+      "content-type": "text/html"
+    }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Garber",
+      "url": "https://sixtwothree.org/",
+      "photo": "https://assets.sixtwothree.org/jgarber.png"
+    },
+    "name": "Gabriel Dawe’s contribution to WONDER at The Renwick Gallery",
+    "url": "https://sixtwothree.org/photos/3",
+    "published": "2016-01-14T19:15:13-05:00",
+    "updated": "2016-01-18T23:26:06-05:00",
+    "category": [
+      "art",
+      "Gabriel Dawe",
+      "Renwick Gallery",
+      "sculpture",
+      "WONDER"
+    ],
+    "syndication": [
+      "https://www.flickr.com/photos/jgarber/23925780649/",
+      "https://www.instagram.com/p/BAXMfViNxrf/"
+    ],
+    "photo": [
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/3/image_small.jpg"
+      },
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/3/image_medium.jpg"
+      },
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/3/image_large.jpg"
+      }
+    ],
+    "location": {
+      "type": "adr",
+      "locality": "Washington",
+      "region": "District of Columbia",
+      "country-name": "United States",
+      "longitude": "-77.0394055555555",
+      "latitude": "38.8990972222222"
+    },
+    "content": {
+      "value": "\u003cp\u003eGabriel Dawe\u0026rsquo;s contribution to WONDER at The Renwick Gallery\u003c/p\u003e\n",
+      "content-type": "text/html"
+    }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Garber",
+      "url": "https://sixtwothree.org/",
+      "photo": "https://assets.sixtwothree.org/jgarber.png"
+    },
+    "name": "A detail from Tara Donovan’s spires of stacked index cards at WONDER at The Renwick Gallery",
+    "url": "https://sixtwothree.org/photos/4",
+    "published": "2016-01-14T19:15:54-05:00",
+    "updated": "2016-01-18T23:26:18-05:00",
+    "category": [
+      "art",
+      "Renwick Gallery",
+      "sculpture",
+      "Tara Donovan",
+      "WONDER"
+    ],
+    "syndication": [
+      "https://www.flickr.com/photos/jgarber/24293667875/",
+      "https://www.instagram.com/p/BAXMudmtxr9/"
+    ],
+    "photo": [
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/4/image_small.jpg"
+      },
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/4/image_medium.jpg"
+      },
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/4/image_large.jpg"
+      }
+    ],
+    "location": {
+      "type": "adr",
+      "locality": "Washington",
+      "region": "District of Columbia",
+      "country-name": "United States",
+      "longitude": "-77.0393611111111",
+      "latitude": "38.8991055555556"
+    },
+    "content": {
+      "value": "\u003cp\u003eA detail from Tara Donovan\u0026rsquo;s spires of stacked index cards at WONDER at The Renwick Gallery\u003c/p\u003e\n",
+      "content-type": "text/html"
+    }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Garber",
+      "url": "https://sixtwothree.org/",
+      "photo": "https://assets.sixtwothree.org/jgarber.png"
+    },
+    "name": "“Middle Fork,” John Grade’s piece at WONDER at The Renwick Gallery",
+    "url": "https://sixtwothree.org/photos/5",
+    "published": "2016-01-14T19:16:39-05:00",
+    "updated": "2016-01-18T23:26:29-05:00",
+    "category": [
+      "art",
+      "John Grade",
+      "Renwick Gallery",
+      "sculpture",
+      "WONDER"
+    ],
+    "syndication": [
+      "https://www.flickr.com/photos/jgarber/24293725555/",
+      "https://www.instagram.com/p/BAXNFXXtxs6/"
+    ],
+    "photo": [
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/5/image_small.jpg"
+      },
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/5/image_medium.jpg"
+      },
+      {
+        "content-type": "image/jpeg",
+        "url": "/uploads/photos/5/image_large.jpg"
+      }
+    ],
+    "location": {
+      "type": "adr",
+      "locality": "Washington",
+      "region": "District of Columbia",
+      "country-name": "United States",
+      "longitude": "-77.0392833333333",
+      "latitude": "38.8991583333333"
+    },
+    "content": {
+      "value": "\u003cp\u003e\u0026ldquo;Middle Fork,\u0026rdquo; John Grade\u0026rsquo;s piece at WONDER at The Renwick Gallery\u003c/p\u003e\n",
+      "content-type": "text/html"
+    }
+  }
+]
