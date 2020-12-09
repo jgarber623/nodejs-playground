@@ -1,0 +1,19 @@
+{
+  "name": "express-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A demo JSON API built using Express.",
+  "main": "src/index.mjs",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Garber <jason@sixtwothree.org> (https://sixtwothree.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
