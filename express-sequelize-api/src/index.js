@@ -1,17 +1,7 @@
 'use strict';
 
-require('dotenv').config();
+const app = require('./app');
 
-const express = require('express');
-
-const authorsRouter = require('./routes/authors');
-
-const PORT = parseInt(process.env.PORT, 10) || 8080;
-
-const app = express();
-
-app.use(express.json());
-
-app.use('/authors', authorsRouter);
-
-app.listen(PORT, () => console.log(`Server running on port ${PORT}...`));
+app.listen(app.get('port'), () => {
+  console.log(`Server is running at http://localhost:${app.get('port')} in ${app.get('env')} mode...`);
+});
