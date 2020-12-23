@@ -14,7 +14,7 @@ describe('authors endpoints', () => {
   });
 
   it('returns an array of authors', async () => {
-    const authors = await factory.createMany('author', 5);
+    const authors = await factory.createMany('Author', 5);
     const rsp = await request(app).get('/authors');
 
     expect(rsp.statusCode).toEqual(200);
@@ -22,7 +22,7 @@ describe('authors endpoints', () => {
   });
 
   it('returns an author', async () => {
-    const author = await factory.create('author');
+    const author = await factory.create('Author');
     const rsp = await request(app).get(`/authors/${author.id}`);
 
     expect(rsp.statusCode).toEqual(200);
