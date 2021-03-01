@@ -1,0 +1,6 @@
+.DS_Store
+.git*
+*.md
+*docker-compose*
+*Dockerfile*
+node_modules

@@ -1,0 +1,20 @@
+services:
+  example:
+    image: docker-microservices/example
+    build:
+      context: ./services/example
+      args:
+        NODE_ENV: development
+    environment:
+      NODE_ENV: development
+    volumes:
+      # Bind host working directory to running container
+      - type: bind
+        source: ./services/example
+        target: /usr/src/app
+        consistency: delegated
+      # Mount node_modules across container restarts
+      - type: volume
+        target: /usr/src/app/node_modules
+    # Start the container and do nothing
+    entrypoint: tail -f /dev/null

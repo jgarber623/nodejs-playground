@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+set -e
+
+_args=("$@")
+
+container_name=${_args[0]}
+
+unset "_args[0]"
+
+container_id=$(docker ps --filter ancestor=${container_name} --format {{.ID}})
+
+cmd=${_args[@]}
+
+if [ -z $container_id ]; then
+  exit 1
+else
+  docker exec -it $container_id $cmd
+fi
